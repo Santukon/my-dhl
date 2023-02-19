@@ -1,5 +1,5 @@
 {
-    "name": "Santukon/my-dhl",
+    "name": "santukon/my-dhl",
     "description": "Unofficial SDK for the MyDHL API",
     "type": "library",
     "autoload": {
