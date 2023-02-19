@@ -1,5 +1,5 @@
 {
-    "name": "santukon/my-dhl",
+    "name": "cubes-doo/my-dhl",
     "description": "Unofficial SDK for the MyDHL API",
     "type": "library",
     "autoload": {
